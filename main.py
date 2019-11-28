@@ -1,5 +1,3 @@
-import mensagens
+import tiles
  
-mensagens.welcome()
-mensagens.loser()
-mensagens.winner()
+tiles.intro_text
